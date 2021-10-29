@@ -1,1 +1,5 @@
-wth
+git remote add upstream https://github.com/Tarping39/Tarping39-KMUTTTeamSuperGlue.git
+git fetch upstream
+git branch
+git status
+git push upstream
